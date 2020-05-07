@@ -3,4 +3,4 @@ FROM centos
 WORKDIR /appusertest
 COPY . .
 
-CMD ping foxnews.com
+CMD ping msnbc.com
